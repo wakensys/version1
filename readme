@@ -1,0 +1,29 @@
+Unmodifying a Modified File
+What if you realize that you don’t want to keep your changes to the benchmarks.rb file? How can you easily unmodify it — revert it back to what it looked
+like when you last committed (or initially cloned, or however you got it into your
+working directory)? Luckily, git status tells you how to do that, too. In the last
+example output, the unstaged area looks like this:
+# Changed but not updated:
+# (use "git add <file>..." to update what will be committed)
+# (use "git checkout -- <file>..." to discard changes in workUnmodifying a Modified File
+What if you realize that you don’t want to keep your changes to the benchmarks.rb file? How can you easily unmodify it — revert it back to what it looked
+like when you last committed (or initially cloned, or however you got it into your
+working directory)? Luckily, git status tells you how to do that, too. In the last
+example output, the unstaged area looks like this:
+# Changed but not updated:
+# (use "git add <file>..." to update what will be committed)
+# (use "git checkout -- <file>..." to discard changes in workUnmodifying a Modified File
+What if you realize that you don’t want to keep your changes to the benchmarks.rb file? How can you easily unmodify it — revert it back to what it looked
+like when you last committed (or initially cloned, or however you got it into your
+working directory)? Luckily, git status tells you how to do that, too. In the last
+example output, the unstaged area looks like this:
+# Changed but not updated:
+# (use "git add <file>..." to update what will be committed)
+# (use "git checkout -- <file>..." to discard changes in workUnmodifying a Modified File
+What if you realize that you don’t want to keep your changes to the benchmarks.rb file? How can you easily unmodify it — revert it back to what it looked
+like when you last committed (or initially cloned, or however you got it into your
+working directory)? Luckily, git status tells you how to do that, too. In the last
+example output, the unstaged area looks like this:
+# Changed but not updated:
+# (use "git add <file>..." to update what will be committed)
+# (use "git checkout -- <file>..." to discard changes in work
